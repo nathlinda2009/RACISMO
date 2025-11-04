@@ -49,7 +49,7 @@ body {
 
 .menu a {
   display: inline-block;              /* Permite centralizar e ajustar espaçamento dos links */
-  color: #f31c1c;                     /* Links do menu em branco */
+  color: #292626;                     /* Links do menu em branco */
   margin: 0 12px;                     /* Espaço lateral igual entre os links */
   padding: 6px 8px;                   /* Área clicável um pouco maior */
   border-radius: 6px;                 /* Cantos levemente arredondados no hover */
@@ -138,7 +138,7 @@ body {
 
 /* =============== FOOTER =============== */
 .rodape {
-  background: #1f2937;                /* Cor de fundo do rodapé */
+  background: #ca6470;                /* Cor de fundo do rodapé */
   color: #4a3333;                     /* Cor do texto do rodapé */
   text-align: center;                 /* Centraliza o conteúdo do rodapé */
   padding: 14px;                      /* Respiro interno do rodapé */
